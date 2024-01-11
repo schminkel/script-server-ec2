@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Include variables
-source ./vars.sh
+source conf/scripts/vars.sh
 
 # Specify ssh-key file to check
 file="/home/ec2-user/.ssh/id_rsa.pub"

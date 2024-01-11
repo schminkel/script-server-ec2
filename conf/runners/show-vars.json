@@ -1,0 +1,5 @@
+{
+  "name": "Show Variables",
+  "script_path": "conf/scripts/show-vars.sh",
+  "parameters": []
+}

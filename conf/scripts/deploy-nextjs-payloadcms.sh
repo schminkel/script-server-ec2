@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Include variables
-source ./vars.sh
+source conf/scripts/vars.sh
 
 # Record start timestamp
 start_time=$(date +%s)
