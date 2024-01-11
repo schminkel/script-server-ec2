@@ -1,5 +1,5 @@
 {
   "name": "Deploy PayloadCMS / NextJS",
-  "script_path": "conf/scripts/deploy.sh",
+  "script_path": "conf/scripts/deploy-nextjs-payloadcms.sh",
   "parameters": []
 }

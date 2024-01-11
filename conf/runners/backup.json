@@ -1,5 +1,0 @@
-{
-  "name": "Backup",
-  "script_path": "conf/scripts/backup.sh",
-  "parameters": []
-}
