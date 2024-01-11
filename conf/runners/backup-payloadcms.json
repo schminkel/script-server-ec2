@@ -1,5 +1,5 @@
 {
-  "name": "Backup",
+  "name": "Backup PayloadCMS",
   "script_path": "conf/scripts/backup-payloadcms.sh",
   "parameters": []
 }
