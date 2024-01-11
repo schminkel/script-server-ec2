@@ -1,0 +1,5 @@
+{
+  "name": "Generate SSH-Keys",
+  "script_path": "conf/scripts/generate-ssh-keys.sh",
+  "parameters": []
+}

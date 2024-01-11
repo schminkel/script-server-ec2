@@ -1,0 +1,5 @@
+{
+  "name": "Open Terminal",
+  "script_path": "conf/scripts/open-terminal.sh",
+  "parameters": []
+}

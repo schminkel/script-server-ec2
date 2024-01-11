@@ -1,0 +1,5 @@
+{
+  "name": "User Script Logging",
+  "script_path": "conf/scripts/user-script-logging.sh",
+  "parameters": []
+}
